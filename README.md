@@ -5,7 +5,7 @@ Fort building
 
 Started with codepen to modify front end. 
 
-  ![Codepen Fortmatic](https://cdpn.io/willtaivvi/fullpage/KKZvJKb?editors=1010)
+  ![Codepen Fortmatic](https://github.com/WillTaivvi/PsiPhiFort/blob/main/Screenshot%20from%202022-04-14%2015-16-56.png)
 
 Assuming will deploy with Hardhat or Truffle to 
 -Local Host
