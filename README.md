@@ -1,7 +1,7 @@
 # PsiPhiFort
 Fort building
 
-*This is my storage repo for learning and building the Fortmatic wallet protocol.
+*This is my storage repo for learning and building the Fortmatic wallet protocol.*
 
 Started with codepen to modify front end. 
 
